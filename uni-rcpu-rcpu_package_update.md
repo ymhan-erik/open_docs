@@ -5,6 +5,12 @@
 ### erik@info-cube.co.kr  
 ### 2026-05-20
 
+## 준비물 & 환경
+ 1. 리눅스 
+ 2. SD_Boot_ext4.zip 
+ 3. unitest_rcpu_software_package_20260402_1.9.1_1.7.3_for_N208.tar 
+ 4. sd_card 
+
 ## 예제 1)
 ##   A. 보드이미지 : 
         SD_Boot_ext4.zip
