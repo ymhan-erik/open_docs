@@ -21,7 +21,7 @@
 
 
 ## STEP_1 압축 해제 :
-       tar -xvf unitest_rcpu_software_package_20191012_1.8.8_1.7.0_new_sync.tar
+       tar -xvf unitest_rcpu_software_package_20260402_1.9.1_1.7.3_for_N208.tar
 
 ## STEP_2 압축 해제
         unzip SD_Boot_ext4.zip
