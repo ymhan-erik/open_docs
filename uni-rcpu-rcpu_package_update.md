@@ -1,4 +1,4 @@
-# INFOCUBE RCPU_Z1G 
+# INFOCUBE RCPU_Z1G, 패키지업데이트방법
 
 ### 유니테스트에서 패키지 파일을 제공했을때 보드 이미지에 넣는 방법 
 
