@@ -45,7 +45,7 @@
 
 
 ## STEP_7 새 rcpu 패키지 복사
-        sudo cp -rfp /home/f47/iWork/1_UNI_Z010_RCPU_V1/260511/unitest_rcpu_software_package ./root
+        sudo cp -rfp  ../../unitest_rcpu_software_package ./root
 
 ## STEP_8 원본 백업 , 다시 압축하고 마무리
         cd ..
