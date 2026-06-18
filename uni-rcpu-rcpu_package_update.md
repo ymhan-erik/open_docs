@@ -51,6 +51,7 @@
         cd ..
         mv ./ZEROM_ROOT.tar ./ZEROM_ROOT.tar.old
         sudo tar --numeric-owner -cpf ZEROM_ROOT.tar -C ./rootfs_tmp .
+        sudo rm ./rootfs_tmp
 
 ## STEP_9 파일권한 root:roor 에서 f47:f47
         sudo chown f47:f47 ZEROM_ROOT.tar
